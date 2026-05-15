@@ -4,6 +4,12 @@ Projeto desenvolvido em Python utilizando a biblioteca Pygame, recriando o clás
 
 ---
 
+# 🎥 Demonstração do Projeto
+
+![Demonstração do jogo](demo.gif)
+
+---
+
 # 📚 Objetivo do Projeto
 
 Este projeto foi criado com foco educacional para praticar:
@@ -104,6 +110,7 @@ python main.py
 O projeto utiliza diversos conceitos importantes:
 
 ## 🎯 Eventos
+
 Captura de teclas usando:
 
 ```python
@@ -145,6 +152,7 @@ Responsável por:
 snake-premium/
 │
 ├── main.py
+├── demo.gif
 ├── README.md
 ```
 
